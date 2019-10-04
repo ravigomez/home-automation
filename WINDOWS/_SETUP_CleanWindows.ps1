@@ -7,4 +7,18 @@ Set-ExecutionPolicy AllSigned
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
+choco install googlechrome
+
+choco install 7zip.install
+
+choco install vlc
+
+choco install notepadplusplus.install
+
+choco install git.install
+
+choco install putty.install
+
+choco install nodejs.install
+
 Write-Host "ENDED...."
