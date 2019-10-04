@@ -21,4 +21,6 @@ choco install putty.install
 
 choco install nodejs.install
 
+choco install vscode
+
 Write-Host "ENDED...."
