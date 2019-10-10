@@ -5,6 +5,10 @@ sudo apt-get install curl
 sudo apt-get install htop
 sudo apt install net-tools
 
+###Live patch ubuntu
+sudo snap install canonical-livepatch
+sudo canonical-livepatch enable 79d9f22c11b44891b0b53918d176d708
+
 ### Para remover animação do gnome
 sudo apt install gnome-tweak-tool
 
