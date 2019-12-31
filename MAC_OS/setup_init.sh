@@ -5,6 +5,12 @@
 
 brew install htop
 
+brew cask install mongodb-compass
+
+
+###development tools
+
+
 ## Install node
 brew install node
 
