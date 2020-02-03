@@ -7,6 +7,7 @@ brew install htop
 
 brew cask install mongodb-compass
 
+brew cask install vlc
 
 ###development tools
 
