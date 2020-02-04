@@ -21,6 +21,13 @@ brew install yarn
 ## Visual studio code
 brew cask install visual-studio-code
 
+### VS Extentions
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
+
 #install docker
 
 brew install bash-completion
