@@ -27,8 +27,8 @@ brew cask install visual-studio-code
 https://marketplace.visualstudio.com/items?itemName=ms-vsts.team
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-
-
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
 #install docker
 
