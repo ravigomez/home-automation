@@ -11,6 +11,7 @@ brew cask install vlc
 
 ###development tools
 
+brew install git
 
 ## Install node
 brew install node
