@@ -32,6 +32,7 @@ https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS
 https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative
 https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 
 #install docker
 
