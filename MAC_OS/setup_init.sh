@@ -29,6 +29,9 @@ https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS
+https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative
+https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
 #install docker
 
