@@ -3,15 +3,18 @@
 ## Install homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+brew update
+brew upgrade
+
+###System Tools
 brew install htop
-
-brew cask install mongodb-compass
-
 brew cask install vlc
+#####################################
 
 ###development tools
-
 brew install git
+brew install terraform
+brew cask install mongodb-compass
 
 ## Install node
 brew install node
@@ -33,9 +36,9 @@ https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-c
 https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
-#install docker
-
+###install docker##############
 brew install bash-completion
 brew cask install docker
 brew install kubectl
 brew install minikube
+###############################
