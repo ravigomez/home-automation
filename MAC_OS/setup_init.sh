@@ -35,6 +35,7 @@ https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 
 ###install docker##############
 brew install bash-completion
