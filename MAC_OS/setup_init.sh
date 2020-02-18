@@ -36,6 +36,7 @@ https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-c
 https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 ###install docker##############
 brew install bash-completion
