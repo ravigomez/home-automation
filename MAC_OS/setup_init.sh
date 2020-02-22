@@ -16,6 +16,8 @@ brew install git
 brew install terraform
 brew cask install mongodb-compass
 
+brew cask install java
+
 ## Install node
 brew install node
 
