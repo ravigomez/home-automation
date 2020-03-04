@@ -19,10 +19,24 @@ brew cask install mongodb-compass
 brew cask install java
 
 ## Install node
-brew install node
+
+brew install nvm
+mkdir ~/.nvm
+
+##if does not exists
+touch ~/.bash_profile
+##Add following line to your profile.
+#####NVM
+######export NVM_DIR=~/.nvm
+######source $(brew --prefix nvm)/nvm.sh
+
+### use 'nvm ls' to lookup latest versions
+### use nvm install --lts='Dubnium'
+### use 'nvm use *'
 
 ## Install yarn
 brew install yarn
+brew uninstall node --ignore-dependencies
 
 ## Visual studio code
 brew cask install visual-studio-code
