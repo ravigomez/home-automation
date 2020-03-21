@@ -9,6 +9,7 @@ brew upgrade
 ###System Tools
 brew install htop
 brew cask install vlc
+brew cask install skype
 #####################################
 
 ###development tools
