@@ -8,6 +8,7 @@ brew upgrade
 
 ###System Tools
 brew install htop
+brew install wget
 brew cask install vlc
 brew cask install skype
 #####################################
