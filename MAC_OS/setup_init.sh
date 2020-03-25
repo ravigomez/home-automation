@@ -17,6 +17,7 @@ brew cask install skype
 brew install git
 brew install terraform
 brew cask install mongodb-compass
+brew cask install insomnia
 
 brew cask install java
 
