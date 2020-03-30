@@ -18,8 +18,12 @@ brew install git
 brew install terraform
 brew cask install mongodb-compass
 brew cask install insomnia
+brew cask install devdocs
 
 brew cask install java
+brew install wireshark
+
+
 
 ## Install node
 
@@ -44,6 +48,17 @@ brew uninstall node --ignore-dependencies
 ## Visual studio code
 brew cask install visual-studio-code
 
+###install docker##############
+brew install bash-completion
+brew cask install docker
+brew install kubectl
+brew install minikube
+###############################
+
+### mobile configurations
+npm install -g expo-cli
+
+
 ### VS Extentions
 
 https://marketplace.visualstudio.com/items?itemName=ms-vsts.team
@@ -57,9 +72,3 @@ https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snipp
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-###install docker##############
-brew install bash-completion
-brew cask install docker
-brew install kubectl
-brew install minikube
-###############################
