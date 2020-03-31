@@ -25,7 +25,7 @@ brew install wireshark
 
 
 
-## Install node
+## Install nodee
 
 brew install nvm
 mkdir ~/.nvm
