@@ -22,8 +22,7 @@ brew cask install devdocs
 
 brew cask install java
 brew install wireshark
-
-
+brew cask install flipper ##Debuger for react native
 
 ## Install nodee
 
