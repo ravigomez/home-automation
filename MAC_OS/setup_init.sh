@@ -19,6 +19,7 @@ brew install terraform
 brew cask install mongodb-compass
 brew cask install insomnia
 brew cask install devdocs
+brew cask install sqlectron
 
 brew cask install java
 brew install wireshark
