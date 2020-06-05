@@ -17,6 +17,9 @@ sudo git config --global user.name "ravigomez"
 sudo git config --global user.email "ravigomez@gmail.com"
 ###########################
 
+sudo apt install npm
+sudo apt install yarn
+
 #####Docker 
 
 sudo apt-get install \
