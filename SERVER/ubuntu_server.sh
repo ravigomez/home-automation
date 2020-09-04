@@ -1,6 +1,7 @@
 sudo apt-get update && sudo apt-get upgrade
 
 sudo apt-get install iotop
+sudo apt-get install glances
 
 ###Live patch ubuntu
 sudo snap install canonical-livepatch
