@@ -39,8 +39,5 @@ sudo add-apt-repository \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 
-#### Docker Machine
-base=https://github.com/docker/machine/releases/download/v0.16.0 &&
-  curl -L $base/docker-machine-$(uname -s)-$(uname -m) >/tmp/docker-machine &&
-  sudo mv /tmp/docker-machine /usr/local/bin/docker-machine &&
-  chmod +x /usr/local/bin/docker-machine
+#Run docker commands without password
+sudo usermod -aG docker your-user
