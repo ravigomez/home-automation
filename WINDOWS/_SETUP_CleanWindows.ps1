@@ -13,15 +13,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 choco install googlechrome
 
+choco install libreoffice-fresh
+
 choco install 7zip.install
 
 choco install vlc
 
 choco install notepadplusplus.install
 
-choco install git.install
-
-choco install putty.install
+choco install git
+git config --global user.name "Rafael Gómez"
+git config --global user.email "ravigomez@gmail.com"
+git config --global color.ui auto
 
 choco install nodejs.install
 
