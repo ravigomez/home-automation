@@ -1,19 +1,15 @@
 
 Write-Host "BEGINING...."
 
-Write-Host "TEste"
-
-
-
-& @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-
 Set-ExecutionPolicy AllSigned
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 choco install googlechrome
 
-choco install libreoffice-fresh
+choco install openjdk ## choco install jdk8 for 32 bits
+
+choco install libreoffice-fresh #base requires java
 
 choco install 7zip.install
 
