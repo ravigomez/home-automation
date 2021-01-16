@@ -13,9 +13,14 @@ brew install wget
 brew install vlc
 brew install skype
 brew install java
+brew install --cask libreoffice
 #####################################
 
 ###development tools
+
+brew install --cask visual-studio-code
+brew install --cask android-studio
+#install xcode from app store
 brew install git
 
 brew install ansible
