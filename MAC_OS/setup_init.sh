@@ -14,6 +14,8 @@ brew install vlc
 brew install skype
 brew install --cask zoom
 brew install java
+brew install anydesk
+brew install teamviewer
 brew install --cask libreoffice
 #intall microsoft remote-desktop from apple store
 #install auth from the website https://authy.com/download/
