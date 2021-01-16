@@ -3,11 +3,7 @@
 ## Install homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew update
-brew upgrade
-
 #install xcode from app store
-
 
 ###System Tools
 brew install --cask iterm2
@@ -21,6 +17,8 @@ brew install java
 
 ###development tools
 brew install git
+
+brew install ansible
 brew install terraform
 brew install mongodb-compass
 brew install insomnia
