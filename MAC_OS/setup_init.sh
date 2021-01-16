@@ -14,6 +14,7 @@ brew install vlc
 brew install skype
 brew install java
 brew install --cask libreoffice
+brew install --cask remote-desktop-manager
 #####################################
 
 ###development tools
