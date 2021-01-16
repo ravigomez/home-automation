@@ -15,7 +15,7 @@ brew install skype
 brew install --cask zoom
 brew install java
 brew install --cask libreoffice
-brew install --cask remote-desktop-manager
+#intall microsoft remote-desktop from apple store
 #install auth from the website https://authy.com/download/
 #####################################
 
