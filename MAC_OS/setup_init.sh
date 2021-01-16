@@ -12,6 +12,7 @@ brew install htop
 brew install wget
 brew install vlc
 brew install skype
+brew install --cask zoom
 brew install java
 brew install --cask libreoffice
 brew install --cask remote-desktop-manager
