@@ -55,10 +55,6 @@ touch ~/.bash_profile
 
 ## Install yarn
 brew install yarn
-brew uninstall node --ignore-dependencies
-
-## Visual studio code
-brew install visual-studio-code
 
 ###install docker##############
 brew install bash-completion
