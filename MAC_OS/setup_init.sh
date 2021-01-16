@@ -6,24 +6,30 @@
 brew update
 brew upgrade
 
+#install xcode from app store
+
+
 ###System Tools
+brew install --cask iterm2
+brew install zsh
 brew install htop
 brew install wget
-brew cask install vlc
-brew cask install skype
+brew install vlc
+brew install skype
+brew install java
 #####################################
 
 ###development tools
 brew install git
 brew install terraform
-brew cask install mongodb-compass
-brew cask install insomnia
-brew cask install devdocs
-brew cask install sqlectron
+brew install mongodb-compass
+brew install insomnia
+brew install devdocs
+brew install sqlectron
+brew install miro
 
-brew cask install java
 brew install wireshark
-brew cask install flipper ##Debuger for react native
+brew install flipper ##Debuger for react native
 
 ## Install nodee
 
@@ -46,11 +52,11 @@ brew install yarn
 brew uninstall node --ignore-dependencies
 
 ## Visual studio code
-brew cask install visual-studio-code
+brew install visual-studio-code
 
 ###install docker##############
 brew install bash-completion
-brew cask install docker
+brew install docker
 brew install kubectl
 brew install minikube
 
