@@ -72,7 +72,9 @@ base=https://github.com/docker/machine/releases/download/v0.16.2 &&
 
 ### mobile configurations
 npm install -g expo-cli
-
+ 
+#python env
+brew install pyenv
 
 ### VS Extentions
 
