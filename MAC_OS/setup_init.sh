@@ -39,6 +39,8 @@ brew install miro
 brew install wireshark
 brew install flipper ##Debuger for react native
 
+brew install multipass ## ubuntu vms
+
 ## Install nodee
 
 brew install nvm
