@@ -26,7 +26,16 @@ brew install --cask libreoffice
 brew install --cask visual-studio-code
 brew install --cask android-studio
 #install xcode from app store
+
+## GIT
 brew install git
+git config --global user.name "Rafael Gómez"
+git config --global user.email "ravigomez@gmail.com"
+git config --global color.ui auto
+
+brew install git-flow
+####
+
 
 brew install ansible
 brew install terraform
