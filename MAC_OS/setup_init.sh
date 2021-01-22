@@ -10,6 +10,7 @@ brew install --cask iterm2
 brew install zsh
 brew install htop
 brew install wget
+brew install watch
 brew install vlc
 brew install skype
 brew install --cask zoom
