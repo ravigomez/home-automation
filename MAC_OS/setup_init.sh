@@ -3,27 +3,52 @@
 ## Install homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew update
-brew upgrade
+#install xcode from app store
 
 ###System Tools
+brew install --cask iterm2
+brew install zsh
 brew install htop
 brew install wget
-brew cask install vlc
-brew cask install skype
+brew install vlc
+brew install skype
+brew install --cask zoom
+brew install java
+brew install anydesk
+brew install teamviewer
+brew install --cask libreoffice
+#intall microsoft remote-desktop from apple store
+#install auth from the website https://authy.com/download/
 #####################################
 
 ###development tools
-brew install git
-brew install terraform
-brew cask install mongodb-compass
-brew cask install insomnia
-brew cask install devdocs
-brew cask install sqlectron
 
-brew cask install java
+brew install --cask visual-studio-code
+brew install --cask android-studio
+#install xcode from app store
+
+## GIT
+brew install git
+git config --global user.name "Rafael Gómez"
+git config --global user.email "ravigomez@gmail.com"
+git config --global color.ui auto
+
+brew install git-flow
+####
+
+
+brew install ansible
+brew install terraform
+brew install mongodb-compass
+brew install insomnia
+brew install devdocs
+brew install sqlectron
+brew install miro
+
 brew install wireshark
-brew cask install flipper ##Debuger for react native
+brew install flipper ##Debuger for react native
+
+brew install multipass ## ubuntu vms
 
 ## Install nodee
 
@@ -43,14 +68,10 @@ touch ~/.bash_profile
 
 ## Install yarn
 brew install yarn
-brew uninstall node --ignore-dependencies
-
-## Visual studio code
-brew cask install visual-studio-code
 
 ###install docker##############
 brew install bash-completion
-brew cask install docker
+brew install docker
 brew install kubectl
 brew install minikube
 
@@ -62,7 +83,9 @@ base=https://github.com/docker/machine/releases/download/v0.16.2 &&
 
 ### mobile configurations
 npm install -g expo-cli
-
+ 
+#python env
+brew install pyenv
 
 ### VS Extentions
 
