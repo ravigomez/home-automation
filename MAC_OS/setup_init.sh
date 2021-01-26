@@ -28,6 +28,9 @@ brew install --cask visual-studio-code
 brew install --cask android-studio
 #install xcode from app store
 
+## Cloud tools
+brew install awscli
+
 ## GIT
 brew install git
 git config --global user.name "Rafael Gómez"
