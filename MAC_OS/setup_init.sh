@@ -14,7 +14,8 @@ brew install watch
 brew install vlc
 brew install skype
 brew install --cask zoom
-brew install java
+#Java8 version
+brew install homebrew/cask-versions/adoptopenjdk8
 brew install anydesk
 brew install teamviewer
 brew install --cask libreoffice
