@@ -49,6 +49,7 @@ brew install insomnia
 brew install devdocs
 brew install sqlectron
 brew install miro
+brew install vnc-viewer
 
 brew install wireshark
 brew install flipper ##Debuger for react native
