@@ -1,6 +1,10 @@
 sudo apt-get update
 sudo apt-get upgrade
 
+#auto security update
+sudo apt-get install unattended-upgrades
+dpkg-reconfigure --priority=low unattended-upgrades #hit yes
+
 sudo apt-get install curl
 sudo apt-get install htop
 sudo apt install net-tools
